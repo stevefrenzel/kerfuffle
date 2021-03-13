@@ -1,9 +1,5 @@
 import React from 'react'
-import { footerStyles } from 'styles'
 
-/**
- * Site footer component
- */
 const Footer = () => (
   <footer>
     <p>
@@ -28,7 +24,6 @@ const Footer = () => (
         />
       </a>
     </p>
-    <style jsx global>{footerStyles}</style>
   </footer>
 )
 

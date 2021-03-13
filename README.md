@@ -9,6 +9,7 @@
 - Change Favicon
 - Add (dynamic) meta tags
 - Add SEO picture
+- Add absolute imports
 
 ## To Do Final
 
